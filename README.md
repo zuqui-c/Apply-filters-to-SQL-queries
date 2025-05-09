@@ -104,7 +104,7 @@ This query lists all employees who are not in the Information Technology departm
 ```sql
 SELECT * 
 FROM employees 
-WHERE NOT department= 'Information Technology';
+WHERE NOT department = 'Information Technology';
 ```
 
 **Purpose:** Determine which teams still need updates (excluding IT).
