@@ -127,7 +127,7 @@ These results help reinforce cybersecurity protocols and better prepare for inci
 
 ## Tools Used
 
-- SQL (PostgreSQL / MySQL)  
+- SQL (MariaDB / MySQL)  
 - Internal login & employee databases  
 - Manual analysis and query optimization
 
