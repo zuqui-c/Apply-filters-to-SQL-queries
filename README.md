@@ -133,15 +133,3 @@ These results help reinforce cybersecurity protocols and better prepare for inci
 
 ---
 
-## Project Structure
-
-```
-/SQL-Security-Project
-├── README.md
-└── Screenshots/
-    ├── 1.png
-    ├── 2.png
-    ├── 3.png
-    ├── 4.png
-    └── 5.png
-```
